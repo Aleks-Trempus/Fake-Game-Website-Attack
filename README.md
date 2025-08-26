@@ -41,6 +41,32 @@ BUT, more importantly we can configure the setting to allow metasploit and socia
 
 <img width="2536" height="1129" alt="Screenshot 2025-08-26 161331" src="https://github.com/user-attachments/assets/6f4929ac-5748-409a-a292-2928ab8a840e" />
 
+Then, update-beef 
+
+Afterwards cd into the extensions directory:
+
+
+<img width="1505" height="204" alt="Screenshot 2025-08-26 161044" src="https://github.com/user-attachments/assets/76cd7986-6e39-498d-b101-af43d78244bd" />
+
+
+<img width="1340" height="142" alt="Screenshot 2025-08-26 162039" src="https://github.com/user-attachments/assets/5582cad1-b844-4ff3-9b0b-6fa71aa8beda" />
+
+cd, into the metasploit directory, then nano into the config.yaml file
+
+
+<img width="2530" height="1068" alt="Screenshot 2025-08-26 162501" src="https://github.com/user-attachments/assets/f4a37f47-ddcb-47cd-8974-952fac17ad6a" />
+
+In the Config.yaml file there are three things to do
+1. Change the Host from your VM to your server IP
+2. Change the callback Host to your server IP
+3. Create a custom path at the bottom '/usr/share/metasploit-framework/'
+
+
+
+
+
+
+
 
 
 
