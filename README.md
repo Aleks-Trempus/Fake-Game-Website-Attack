@@ -84,6 +84,15 @@ Scroll down to the bottom add your beef hook link everyones is different as an e
 
 Once the script is added this allows us to "HOOK" anyone who visits the website opening them to exploits to be executed on our end.
 
+The website looks like this and seems innocent:
+
+<img width="2543" height="1334" alt="Screenshot 2025-08-26 170229" src="https://github.com/user-attachments/assets/43c75a58-a91f-4338-8391-6ffdcd242acb" />
+
+but after they have loaded into the website we get a near instant connection to the victem.
+
+
+<img width="1056" height="490" alt="Screenshot 2025-08-26 at 5 04 42 PM" src="https://github.com/user-attachments/assets/ee0a1422-a264-4cdc-a461-8a4a068abefd" />
+
 
 
 
