@@ -93,6 +93,16 @@ but after they have loaded into the website we get a near instant connection to 
 
 <img width="1056" height="490" alt="Screenshot 2025-08-26 at 5 04 42 PM" src="https://github.com/user-attachments/assets/ee0a1422-a264-4cdc-a461-8a4a068abefd" />
 
+<img width="937" height="491" alt="Screenshot 2025-08-26 at 5 07 00 PM" src="https://github.com/user-attachments/assets/8b28191d-2559-40d8-9e7a-48e7238b8351" />
+
+from here we can go into the beef framework and deploy payloads and exploit to our benefit.
+
+This however isn't enough because people wouldn't typically click on a random link that is just an IP address so hackers would go online and buy a domain address like playforfree.com or 2048freeplaynow.com
+something that is simluar to the game to make it look less suspicious.
+
+or they could embed the link of the server to a image of the game and send something like "PLAY NOW! can you reach 2048?" with an image and link that looks like it would go to the app store to download 
+would forward them to the wbsite.
+
 
 
 
