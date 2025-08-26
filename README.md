@@ -24,5 +24,13 @@ install RVM, update it and install the requirements for RVM
 
 Once done then, instal the lastest version of ruby. (https://www.ruby-lang.org/en/documentation/installation/#apt)
 
+After you have updated to the latest version of ruby you can now install beef.
+
+BEEF (https://github.com/beefproject/beef.git)
+
+once installed you can go to the config.yaml file:
+
+<img width="1505" height="204" alt="Screenshot 2025-08-26 161044" src="https://github.com/user-attachments/assets/7b2a8759-bc77-4177-88a9-6ff1e58f98c4" />
+
 
 
