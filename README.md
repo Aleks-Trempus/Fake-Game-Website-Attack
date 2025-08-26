@@ -33,4 +33,14 @@ once installed you can go to the config.yaml file:
 <img width="1505" height="204" alt="Screenshot 2025-08-26 161044" src="https://github.com/user-attachments/assets/7b2a8759-bc77-4177-88a9-6ff1e58f98c4" />
 
 
+Inside the file you can change the username and password for beef:
+
+<img width="2540" height="1131" alt="Screenshot 2025-08-26 161237" src="https://github.com/user-attachments/assets/669e255d-3d88-4352-87be-5db6cb078922" />
+
+BUT, more importantly we can configure the setting to allow metasploit and social engineering to be used within BEEF.
+
+<img width="2536" height="1129" alt="Screenshot 2025-08-26 161331" src="https://github.com/user-attachments/assets/6f4929ac-5748-409a-a292-2928ab8a840e" />
+
+
+
 
