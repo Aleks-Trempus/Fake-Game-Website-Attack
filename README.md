@@ -103,6 +103,13 @@ something that is simluar to the game to make it look less suspicious.
 or they could embed the link of the server to a image of the game and send something like "PLAY NOW! can you reach 2048?" with an image and link that looks like it would go to the app store to download 
 would forward them to the wbsite.
 
+How to stay safe?
+
+First would be not to accept to go to any websites from phishy looking people
+second would be to check the source code of the site and if you scroll down to here we embedded the hook file and you see some version of it present then you know that your trying to be hacked.
+in addition try to stay away from any http websites there completely unsecure and https should be the default. if paranoid you can configure your browser setting to not run any java script 
+though this will make your website visting less visually pleasing.
+
 
 
 
