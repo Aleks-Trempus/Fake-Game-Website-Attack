@@ -51,7 +51,7 @@ Afterwards cd into the extensions directory:
 
 <img width="1340" height="142" alt="Screenshot 2025-08-26 162039" src="https://github.com/user-attachments/assets/5582cad1-b844-4ff3-9b0b-6fa71aa8beda" />
 
-cd, into the metasploit directory, then nano into the config.yaml file
+cd, into the metasploit directory, thenano into the config.yaml file
 
 
 <img width="2530" height="1068" alt="Screenshot 2025-08-26 162501" src="https://github.com/user-attachments/assets/f4a37f47-ddcb-47cd-8974-952fac17ad6a" />
