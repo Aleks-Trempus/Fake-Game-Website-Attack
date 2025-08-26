@@ -61,8 +61,18 @@ In the Config.yaml file there are three things to do
 2. Change the callback Host to your server IP
 3. Create a custom path at the bottom '/usr/share/metasploit-framework/'
 
+Then Run Beef:
+
+<img width="1634" height="954" alt="Screenshot 2025-08-26 163826" src="https://github.com/user-attachments/assets/ee7143d3-574b-409c-aceb-29ed0964ab86" />
+
+Make your way to /var/www/html
+
+<img width="1506" height="405" alt="Screenshot 2025-08-26 164632" src="https://github.com/user-attachments/assets/9fe7cebf-2e27-4b9e-bb4c-08941d367caf" />
+
+nano into the index.html file
 
 
+<img width="1508" height="144" alt="Screenshot 2025-08-26 164856" src="https://github.com/user-attachments/assets/aaf151f9-7b38-4e1f-bdda-5b31b75e4743" />
 
 
 
