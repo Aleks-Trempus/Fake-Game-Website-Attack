@@ -19,6 +19,9 @@ RVM (https://github.com/rvm/rvm.git)
 
 install RVM, update it and install the requirements for RVM
 
+<img width="1219" height="131" alt="Screenshot 2025-08-26 160520" src="https://github.com/user-attachments/assets/c98c79fb-2ab4-4a05-8254-99b227b19dc9" />
+
+
 Once done then, instal the lastest version of ruby. (https://www.ruby-lang.org/en/documentation/installation/#apt)
 
 
