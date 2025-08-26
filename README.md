@@ -8,3 +8,5 @@ The repository used for this exercise is (https://github.com/atilsamancioglu/204
 I first used Digital Ocean as the platform to create a ubunto server to run the website off of.
 
 <img width="1437" height="977" alt="Screenshot 2025-08-26 135344" src="https://github.com/user-attachments/assets/bc9d6c16-4766-413e-a97e-9a23790a046f" />
+
+Then ran all neccessary updates and installed the apache2 service to run the site off.
